@@ -1,22 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.6af3c7ed.chunk.css",
-    "main.js": "/static/js/main.7e166468.chunk.js",
-    "main.js.map": "/static/js/main.7e166468.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b4fb2257.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b4fb2257.js.map",
+    "main.css": "/static/css/main.360a3f3f.chunk.css",
+    "main.js": "/static/js/main.791a594b.chunk.js",
+    "main.js.map": "/static/js/main.791a594b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2d76e8da.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2d76e8da.js.map",
     "static/css/2.5cfada3d.chunk.css": "/static/css/2.5cfada3d.chunk.css",
-    "static/js/2.804e921e.chunk.js": "/static/js/2.804e921e.chunk.js",
-    "static/js/2.804e921e.chunk.js.map": "/static/js/2.804e921e.chunk.js.map",
-    "static/js/3.4d46fa02.chunk.js": "/static/js/3.4d46fa02.chunk.js",
-    "static/js/3.4d46fa02.chunk.js.map": "/static/js/3.4d46fa02.chunk.js.map",
+    "static/js/2.de7e32ff.chunk.js": "/static/js/2.de7e32ff.chunk.js",
+    "static/js/2.de7e32ff.chunk.js.map": "/static/js/2.de7e32ff.chunk.js.map",
+    "static/js/3.acd3495d.chunk.js": "/static/js/3.acd3495d.chunk.js",
+    "static/js/3.acd3495d.chunk.js.map": "/static/js/3.acd3495d.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.5cfada3d.chunk.css.map": "/static/css/2.5cfada3d.chunk.css.map",
-    "static/css/main.6af3c7ed.chunk.css.map": "/static/css/main.6af3c7ed.chunk.css.map",
-    "static/js/2.804e921e.chunk.js.LICENSE.txt": "/static/js/2.804e921e.chunk.js.LICENSE.txt",
+    "static/css/main.360a3f3f.chunk.css.map": "/static/css/main.360a3f3f.chunk.css.map",
+    "static/js/2.de7e32ff.chunk.js.LICENSE.txt": "/static/js/2.de7e32ff.chunk.js.LICENSE.txt",
     "static/media/Art_lowerLeft.7c1db321.png": "/static/media/Art_lowerLeft.7c1db321.png",
     "static/media/Art_lowerRight.09ae93c4.png": "/static/media/Art_lowerRight.09ae93c4.png",
-    "static/media/Philosophy.css": "/static/media/BG(1).caab08d3.png",
     "static/media/nextsteps.css": "/static/media/BG(2).5bf57ec4.png",
     "static/media/Landing.css": "/static/media/BG.f76179d8.png",
     "static/media/bounty 1.6975c25b.png": "/static/media/bounty 1.6975c25b.png",
@@ -30,13 +29,14 @@
     "static/media/logo.c042fa83.png": "/static/media/logo.c042fa83.png",
     "static/media/macintosh.b4c1d34f.png": "/static/media/macintosh.b4c1d34f.png",
     "static/media/membership.42c5139a.png": "/static/media/membership.42c5139a.png",
+    "static/media/Philosophy.css": "/static/media/philosophyBG.c6943ed6.png",
     "static/media/stranger_hacks.d755f245.png": "/static/media/stranger_hacks.d755f245.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b4fb2257.js",
+    "static/js/runtime-main.2d76e8da.js",
     "static/css/2.5cfada3d.chunk.css",
-    "static/js/2.804e921e.chunk.js",
-    "static/css/main.6af3c7ed.chunk.css",
-    "static/js/main.7e166468.chunk.js"
+    "static/js/2.de7e32ff.chunk.js",
+    "static/css/main.360a3f3f.chunk.css",
+    "static/js/main.791a594b.chunk.js"
   ]
 }
