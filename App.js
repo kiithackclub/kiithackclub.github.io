@@ -8,6 +8,7 @@ import Footer from './components/Footer/Footer'
 import '@hackclub/theme/fonts/reg-bold.css';
 import Teams from './pages/Teams/Teams';
 import Member from './pages/Member/Member';
+import MemberCore from './pages/MemberCore/MemberCore'
 
 import {
   Switch,
@@ -20,14 +21,12 @@ function App() {
     <div className="App">
       <Navbar />
       <Switch>
-        {/* <Route path='/team'>
+        <Route path='/team'>
           <Teams />
-          <Footer />
-        </Route> */}
-        {/* <Route path='/membership'>
+        </Route>
+        <Route path='/membership'>
           <Member />
-          <Footer />
-        </Route> */}
+        </Route>
         <Route path='/comingSoon'>
           <Upcoming />
         </Route>
@@ -36,9 +35,9 @@ function App() {
           <Philosophy />
           <Perks />
           <NextSteps />
-          <Footer />
         </Route>
       </Switch>
+      <Footer />
     </div>
   );
 }
